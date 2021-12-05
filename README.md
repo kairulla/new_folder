@@ -1,4 +1,4 @@
-![](pictures/1.png =100x20)
+![](pictures/1.png){ width=50% }
 ![](pictures/2.png)
 ![](pictures/3.png)
 ![](pictures/4.png)
