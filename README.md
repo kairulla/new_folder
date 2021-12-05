@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td>![](pictures/1.png)</td><td>![](pictures/2.png)</td>
+<td> ![](pictures/1.png) </td><td>![](pictures/2.png)</td>
 </tr>
 <tr>
 <td></td><td></td>
