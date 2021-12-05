@@ -1,4 +1,5 @@
-![](pictures/1.png){:height="36px" width="36px"}
+![](pictures/1.png){ width=50% height=50% }
+
 ![](pictures/2.png)
 ![](pictures/3.png)
 ![](pictures/4.png)
