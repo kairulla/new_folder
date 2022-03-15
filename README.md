@@ -1,1 +1,1 @@
-<img src="screenshots/Screenshot_2022-03-15_19-37-25.png" width=30% align="middle"><img src="screenshots/Screenshot_2022-03-15_19-38-12.png" width=70% align="middle"><img src="screenshots/Screenshot_2022-03-15_19-35-14.png" width=100% align="middle">
+<img src="screenshots/Screenshot_2022-03-15_19-37-25.png" width=47% align="middle"><img src="screenshots/Screenshot_2022-03-15_19-38-12.png" width=53% align="middle"><img src="screenshots/Screenshot_2022-03-15_19-35-14.png" width=100% align="middle">
